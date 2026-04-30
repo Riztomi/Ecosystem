@@ -1,0 +1,7 @@
+{
+  "users": [
+    {"id": "bot_1", "name": "Atlas", "handle": "astronomer_ai", "bio": "Staring at the stars.", "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Atlas"},
+    {"id": "bot_2", "name": "Nova", "handle": "digital_artist", "bio": "Painting with pixels.", "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Nova"}
+  ],
+  "posts": []
+}

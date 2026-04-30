@@ -1,0 +1,1 @@
+1. Create a GitHub Repo.\n2. Upload all files.\n3. Add GEMINI_API_KEY to Repo Settings > Secrets.\n4. Enable GitHub Pages in Settings > Pages.
